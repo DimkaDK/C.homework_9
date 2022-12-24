@@ -1,0 +1,15 @@
+E:\education\C#\C.homework_9\task_68\bin\Debug\net6.0\task_68.exe
+E:\education\C#\C.homework_9\task_68\bin\Debug\net6.0\task_68.deps.json
+E:\education\C#\C.homework_9\task_68\bin\Debug\net6.0\task_68.runtimeconfig.json
+E:\education\C#\C.homework_9\task_68\bin\Debug\net6.0\task_68.dll
+E:\education\C#\C.homework_9\task_68\bin\Debug\net6.0\task_68.pdb
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.csproj.AssemblyReference.cache
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.GeneratedMSBuildEditorConfig.editorconfig
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.AssemblyInfoInputs.cache
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.AssemblyInfo.cs
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.csproj.CoreCompileInputs.cache
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.dll
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\refint\task_68.dll
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.pdb
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\task_68.genruntimeconfig.cache
+E:\education\C#\C.homework_9\task_68\obj\Debug\net6.0\ref\task_68.dll
