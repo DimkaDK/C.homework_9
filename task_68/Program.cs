@@ -13,16 +13,10 @@ int EnterNumber(string message) // Метод получения числа от
 
 int AkermanFunction(int m, int n) // Метод вычисления функции Аккермана с помощью рекурсии
 {
-    while (m != 0)  
-    {
-        if (n == 0) n = 1;
-        else 
-        {
-            n = AkermanFunction(m, n - 1);
-            m = m - 1;
-        }
-    } 
-    return n + 1;
+    if (m == 0) return n + 1;
+    if (m != 0 && n == 0) return AkermanFunction(m - 1, 1);
+    if (m > 0 && n > 0) return AkermanFunction(m - 1, AkermanFunction(m, n - 1));
+    return AkermanFunction(m, n);
 }
 
 int m = EnterNumber("Введите число m: ");
